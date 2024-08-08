@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Q2_AssignmentOneDelegatesandEvents/1.0.0": {
+        "runtime": {
+          "Q2_AssignmentOneDelegatesandEvents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q2_AssignmentOneDelegatesandEvents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
