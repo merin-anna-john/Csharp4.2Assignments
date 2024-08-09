@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\Q1_AssignmentsFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\Q1_AssignmentsFileHandling.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\Q1_AssignmentsFileHandling.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\Q1_AssignmentsFileHandling.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\bin\Debug\net8.0\Q1_AssignmentsFileHandling.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\bin\Debug\net8.0\Q1_AssignmentsFileHandling.deps.json
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\bin\Debug\net8.0\Q1_AssignmentsFileHandling.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\bin\Debug\net8.0\Q1_AssignmentsFileHandling.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\bin\Debug\net8.0\Q1_AssignmentsFileHandling.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\Q1_AssignmentsFileHandling.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\refint\Q1_AssignmentsFileHandling.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\Q1_AssignmentsFileHandling.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\Q1_AssignmentsFileHandling.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q1_AssignmentsFileHandling-Solution\Q1_AssignmentsFileHandling\obj\Debug\net8.0\ref\Q1_AssignmentsFileHandling.dll

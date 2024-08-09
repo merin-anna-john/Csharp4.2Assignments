@@ -1,0 +1,2 @@
+This is a sample data entered by Merin
+This is a text that is appended to the file
