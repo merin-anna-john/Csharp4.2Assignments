@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\bin\Debug\net8.0\FileHandlingSearchwordVowelcount.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\bin\Debug\net8.0\FileHandlingSearchwordVowelcount.deps.json
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\bin\Debug\net8.0\FileHandlingSearchwordVowelcount.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\bin\Debug\net8.0\FileHandlingSearchwordVowelcount.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\bin\Debug\net8.0\FileHandlingSearchwordVowelcount.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\FileHandlingSearchwordVowelcount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\FileHandlingSearchwordVowelcount.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\FileHandlingSearchwordVowelcount.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\FileHandlingSearchwordVowelcount.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\FileHandlingSearchwordVowelcount.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\refint\FileHandlingSearchwordVowelcount.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\FileHandlingSearchwordVowelcount.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\FileHandlingSearchwordVowelcount.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\FileHandlingSearchwordVowelcount-Solution\FileHandlingSearchwordVowelcount\obj\Debug\net8.0\ref\FileHandlingSearchwordVowelcount.dll
