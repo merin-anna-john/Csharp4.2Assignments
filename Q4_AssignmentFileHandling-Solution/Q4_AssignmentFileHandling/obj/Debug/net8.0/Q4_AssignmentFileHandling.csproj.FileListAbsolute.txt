@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\Q4_AssignmentFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\Q4_AssignmentFileHandling.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\Q4_AssignmentFileHandling.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\Q4_AssignmentFileHandling.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\bin\Debug\net8.0\Q4_AssignmentFileHandling.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\bin\Debug\net8.0\Q4_AssignmentFileHandling.deps.json
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\bin\Debug\net8.0\Q4_AssignmentFileHandling.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\bin\Debug\net8.0\Q4_AssignmentFileHandling.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\bin\Debug\net8.0\Q4_AssignmentFileHandling.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\Q4_AssignmentFileHandling.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\refint\Q4_AssignmentFileHandling.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\Q4_AssignmentFileHandling.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\Q4_AssignmentFileHandling.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\File Handling\Q4_AssignmentFileHandling-Solution\Q4_AssignmentFileHandling\obj\Debug\net8.0\ref\Q4_AssignmentFileHandling.dll
