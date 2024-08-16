@@ -1,0 +1,17 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\bin\Debug\net8.0\EmployeeAppMultiThreading.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\bin\Debug\net8.0\EmployeeAppMultiThreading.deps.json
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\bin\Debug\net8.0\EmployeeAppMultiThreading.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\bin\Debug\net8.0\EmployeeAppMultiThreading.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\bin\Debug\net8.0\EmployeeAppMultiThreading.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\EmployeeAppMultiThreading.csproj.AssemblyReference.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\EmployeeAppMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\EmployeeAppMultiThreading.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\EmployeeAppMultiThreading.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\EmployeeAppMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\Employee.9C045C83.Up2Date
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\EmployeeAppMultiThreading.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\refint\EmployeeAppMultiThreading.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\EmployeeAppMultiThreading.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\EmployeeAppMultiThreading.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Multi-Threading\EmployeeAppMultiThreading\EmployeeAppMultiThreading\obj\Debug\net8.0\ref\EmployeeAppMultiThreading.dll
