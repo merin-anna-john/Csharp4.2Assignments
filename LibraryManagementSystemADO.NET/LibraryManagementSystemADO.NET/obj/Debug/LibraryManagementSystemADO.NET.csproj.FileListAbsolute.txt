@@ -1,0 +1,10 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\obj\Debug\LibraryManagementSystemADO.NET.csproj.AssemblyReference.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\obj\Debug\LibraryManagementSystemADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\bin\Debug\LibraryManagementSystemADO.NET.exe.config
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\bin\Debug\LibraryManagementSystemADO.NET.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\bin\Debug\LibraryManagementSystemADO.NET.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\bin\Debug\SqlServerConnectionLibrary.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\bin\Debug\SqlServerConnectionLibrary.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\obj\Debug\LibraryM.FF0DC1DB.Up2Date
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\obj\Debug\LibraryManagementSystemADO.NET.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\LibraryManagementSystemADO.NET\LibraryManagementSystemADO.NET\obj\Debug\LibraryManagementSystemADO.NET.pdb
