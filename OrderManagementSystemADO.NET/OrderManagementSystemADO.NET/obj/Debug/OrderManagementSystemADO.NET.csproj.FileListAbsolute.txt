@@ -1,0 +1,10 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\obj\Debug\OrderManagementSystemADO.NET.csproj.AssemblyReference.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\obj\Debug\OrderManagementSystemADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\bin\Debug\OrderManagementSystemADO.NET.exe.config
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\bin\Debug\OrderManagementSystemADO.NET.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\bin\Debug\OrderManagementSystemADO.NET.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\bin\Debug\SqlServerConnectionLibrary.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\bin\Debug\SqlServerConnectionLibrary.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\obj\Debug\OrderMan.26B46349.Up2Date
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\obj\Debug\OrderManagementSystemADO.NET.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\OrderManagementSystemADO.NET\OrderManagementSystemADO.NET\obj\Debug\OrderManagementSystemADO.NET.pdb
