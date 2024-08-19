@@ -1,0 +1,10 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\bin\Debug\StudentInformationSystemADO.NET.exe.config
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\bin\Debug\StudentInformationSystemADO.NET.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\bin\Debug\StudentInformationSystemADO.NET.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\bin\Debug\SqlServerConnectionLibrary.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\bin\Debug\SqlServerConnectionLibrary.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\obj\Debug\StudentInformationSystemADO.NET.csproj.AssemblyReference.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\obj\Debug\StudentInformationSystemADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\obj\Debug\StudentI.1E54C384.Up2Date
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\obj\Debug\StudentInformationSystemADO.NET.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\StudentInformationSystemADO.NET\StudentInformationSystemADO.NET\obj\Debug\StudentInformationSystemADO.NET.pdb
