@@ -1,0 +1,10 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\bin\Debug\InventoryManagementSystemADO.NET.exe.config
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\bin\Debug\InventoryManagementSystemADO.NET.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\bin\Debug\InventoryManagementSystemADO.NET.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\bin\Debug\SqlServerConnectionLibrary.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\bin\Debug\SqlServerConnectionLibrary.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\obj\Debug\InventoryManagementSystemADO.NET.csproj.AssemblyReference.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\obj\Debug\InventoryManagementSystemADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\obj\Debug\Inventor.2F5D1C5E.Up2Date
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\obj\Debug\InventoryManagementSystemADO.NET.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\Assignments\ADO.NET\InventoryManagementSystemADO.NET\InventoryManagementSystemADO.NET\obj\Debug\InventoryManagementSystemADO.NET.pdb
